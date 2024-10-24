@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Bhagwat-03  
-- 👀 I’m interested in Embedded Systems and Machine Learning  
-- 🌱 I’m currently learning TensorFlow and Embedded C  
-- 💞️ I’m looking to collaborate on open-source projects related to embedded systems or AI at the edge  
-- 📫 How to reach me: chinmaybhagwat03@gmail.com  
-- 😄 Pronouns: He/Him  
+Hey there! I’m @Bhagwat-03, diving headfirst into the exciting world of Embedded Systems and Machine Learning—because why settle for just one when you can conquer both, right? Currently, I’m knee-deep in TensorFlow and Embedded C, trying to get machines to both think and run like pros on tiny devices. If you’re into open-source projects, especially those involving AI at the edge (because who doesn't love living on the edge?), let’s team up! 📬 You can reach me at chinmaybhagwat03@gmail.com. I promise I’ll respond faster than a microcontroller in sleep mode. 😄
 
   
 <!---
