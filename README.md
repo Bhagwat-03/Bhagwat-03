@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects related to embedded systems or AI at the edge  
 - 📫 How to reach me: chinmaybhagwat03@gmail.com  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I love bridging the gap between hardware and AI – making devices smarter and cooler!
+
   
 <!---
 Bhagwat-03/Bhagwat-03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
