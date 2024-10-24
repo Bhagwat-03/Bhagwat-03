@@ -1,4 +1,4 @@
-Hey there! I’m @Bhagwat-03, diving headfirst into the exciting world of Embedded Systems and Machine Learning—because why settle for just one when you can conquer both, right? Currently, I’m knee-deep in TensorFlow and Embedded C, trying to get machines to both think and run like pros on tiny devices. If you’re into open-source projects, especially those involving AI at the edge (because who doesn't love living on the edge?), let’s team up! 📬 You can reach me at chinmaybhagwat03@gmail.com. I promise I’ll respond faster than a microcontroller in sleep mode. 😄
+Hey there! I’m Chinmay, diving headfirst into the exciting world of Embedded Systems and Machine Learning—because why settle for just one when you can conquer both, right? Currently, I’m knee-deep in TensorFlow and Embedded C, trying to get machines to both think and run like pros on tiny devices. If you’re into open-source projects, especially those involving AI at the edge (because who doesn't love living on the edge?), let’s team up! 📬 You can reach me at chinmaybhagwat03@gmail.com. I promise I’ll respond faster than a microcontroller in sleep mode. 😄
 
   
 <!---
